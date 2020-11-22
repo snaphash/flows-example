@@ -1,0 +1,91 @@
+{
+    "name": "SnapHash Catalogue",
+    "updated_at": "2020-11-17T17:02:27.769Z",
+    "modules": [
+        {
+            "description": "SnapHash UI Nodes",
+            "keywords": [
+                "snaphash",
+                "ui",
+                "vega",
+                "candlestick"
+            ],
+            "types": [
+                "ui-snaphash-vega",
+                "ui-snaphash-candlestick"
+            ],
+            "updated_at": "2020-11-20T05:31:43.820Z",
+            "id": "@snaphash/snaphash-ui",
+            "version": "1.2.3",
+            "url": "https://snaphash.io"
+        },
+        {
+            "description": "SnapHash IOTA Nodes",
+            "keywords": [
+                "snaphash",
+                "iota",
+                "dlt",
+                "blockchain",
+                "ledger"
+            ],
+            "types": [
+                "iota-send",
+                "iota-receive",
+                "iota-confirm",
+                "subscribe",
+                "mam-send",
+                "mam-fetchall",
+                "iota-utils",
+                "iota-network",
+                "mam-channel"
+            ],
+            "updated_at": "2020-11-20T05:31:43.820Z",
+            "id": "@snaphash/snaphash-iota",
+            "version": "1.2.4",
+            "url": "https://snaphash.io"
+        },
+        {
+            "description": "SnapHash Ethereum Nodes",
+            "keywords": [
+                "snaphash",
+                "ethereum",
+                "dlt",
+                "blockchain",
+                "ledger"
+            ],
+            "types": [
+                "all-sc-events",
+                "last-n-blocks",
+                "blocks",
+                "all-events",
+                "sc-method",
+                "get-past-logs",
+                "chain-id",
+                "utils",
+                "ethereum-network",
+                "smart-contract",
+                "ethereum-account"
+            ],
+            "updated_at": "2020-11-20T05:31:43.820Z",
+            "id": "@snaphash/snaphash-ethereum",
+            "version": "1.2.2",
+            "url": "https://snaphash.io"
+        },
+        {
+            "description": "SnapHash Utility Nodes",
+            "keywords": [
+                "snaphash",
+                "oauth2",
+                "utils",
+                "security"
+            ],
+            "types": [
+                "utils-snaphash-oauth2"
+            ],
+            "updated_at": "2020-11-20T05:31:43.820Z",
+            "id": "@snaphash/snaphash-utils",
+            "version": "1.1.0",
+            "url": "https://snaphash.io"
+        }
+    ]
+}
