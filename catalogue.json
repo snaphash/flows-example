@@ -41,7 +41,7 @@
             ],
             "updated_at": "2020-11-20T05:31:43.820Z",
             "id": "@snaphash/snaphash-iota",
-            "version": "1.2.4",
+            "version": "1.2.5",
             "url": "https://snaphash.io"
         },
         {
@@ -68,7 +68,7 @@
             ],
             "updated_at": "2020-11-20T05:31:43.820Z",
             "id": "@snaphash/snaphash-ethereum",
-            "version": "1.2.2",
+            "version": "1.2.5",
             "url": "https://snaphash.io"
         },
         {
